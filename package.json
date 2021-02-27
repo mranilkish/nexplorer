@@ -1,5 +1,5 @@
 {
-  "homepage":"https://github.com/mranilkish/nexplorer",
+  "homepage":"http://mranilkish.github.io/nexplorer",
   "name": "nexplorer",
   "version": "1.0.0",
   "description": "View all the macro & micronutrients of raw foods as % based on daily recommended values. You can quickly identify missing micronutrients from your diet and add foods to your meal that gives you healthier nutrition.",
@@ -26,6 +26,8 @@
     "url": "https://github.com/mranilkish/nexplorer.git"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
