@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/nexplorer/static/css/main.e8182caf.chunk.css",
+    "main.js": "/nexplorer/static/js/main.4e37f8b5.chunk.js",
+    "main.js.map": "/nexplorer/static/js/main.4e37f8b5.chunk.js.map",
+    "runtime~main.js": "/nexplorer/static/js/runtime~main.f6f6e232.js",
+    "runtime~main.js.map": "/nexplorer/static/js/runtime~main.f6f6e232.js.map",
+    "static/css/2.b6c16c09.chunk.css": "/nexplorer/static/css/2.b6c16c09.chunk.css",
+    "static/js/2.447ff632.chunk.js": "/nexplorer/static/js/2.447ff632.chunk.js",
+    "static/js/2.447ff632.chunk.js.map": "/nexplorer/static/js/2.447ff632.chunk.js.map",
+    "index.html": "/nexplorer/index.html",
+    "precache-manifest.299dcdb2d20061deddd52c1e709e224e.js": "/nexplorer/precache-manifest.299dcdb2d20061deddd52c1e709e224e.js",
+    "service-worker.js": "/nexplorer/service-worker.js",
+    "static/css/2.b6c16c09.chunk.css.map": "/nexplorer/static/css/2.b6c16c09.chunk.css.map",
+    "static/css/main.e8182caf.chunk.css.map": "/nexplorer/static/css/main.e8182caf.chunk.css.map",
+    "static/media/logo.png": "/nexplorer/static/media/logo.71c8cc11.png"
+  }
+}
